@@ -70,7 +70,6 @@ $ npm run dev
 
 ## More details about tutorials
 
-There are more information about tutorial on the Nodit Developer portal!
-Do you want to get more information about Nodit and tutorials? then please visit our Developer Portal!
+There is more information about the tutorials on the Nodit Developer Portal! Do you want to get more information about Nodit and the tutorials? If so, please visit our Developer Portal!
 
 [Go to Nodit Developer Portal](https://developer.nodit.io/docs/nodit-overview)
