@@ -6,6 +6,8 @@ Tutorials are structured as follows:
 1. NFT Tutorial
 2. Token Tutorial
 
+<br />
+
 ## Sign up for Nodit and Connect to EVM Chains
 
 You can sign up for Nodit by clicking the link below. You can create a new account or sign up for Nodit using an existing Google account.
@@ -14,6 +16,7 @@ You can sign up for Nodit by clicking the link below. You can create a new accou
 
 If you need more details about Nodit, you can get more information in Nodit Developer Portal.
 [Nodit Developer Portal](https://developer.nodit.io/docs/nodit-overview)
+
 <br />
 
 ## Set up Execution Environment
@@ -43,6 +46,8 @@ $ cd nft_tutorial // or cd token_tutorial
 $ npm install
 ```
 
+<br />
+
 ## Managing environment variables
 
 Each tutorial file has a .env file to manage its environment variables. You should fill in the variables to try the tutorials. An example is shown below:
@@ -52,6 +57,8 @@ VITE_API_KEY=Your_API_Key
 VITE_PROTOCOL=ethereum
 VITE_NETWORK=mainnet
 ```
+
+<br />
 
 ## Execute tutorials
 
